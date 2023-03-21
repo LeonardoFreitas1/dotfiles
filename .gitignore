@@ -1,3 +1,4 @@
 htop
 jgit
-!nvim/lua/custom
+yarn
+!nvim/lua/custom/
