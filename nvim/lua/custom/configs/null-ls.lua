@@ -26,7 +26,7 @@ local sources = {
   b.formatting.stylua,
 
   -- Rust
-  b.formatting.rustfmt,
+  -- b.formatting.rustfmt,
 }
 
 null_ls.setup {
