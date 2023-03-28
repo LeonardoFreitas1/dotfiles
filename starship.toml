@@ -21,7 +21,7 @@ format = "[[](#769ff0)[$symbol](bg:#769ff0 fg:white)[](fg:#769ff0 bg:white
 disabled = false
 style_root = "bg:#769ff0"
 style_user = "bg:#769ff0"
-format = "[$user]($style)[](fg:#769ff0)"
+format = "[$user]($style)[](fg:#769ff0 bg:#394260)"
 show_always = true
 
 [hostname]
@@ -47,7 +47,7 @@ format = "on [$localipv4](bold red)"
 [git_branch]
 symbol = ""
 style = "bg:#394260"
-format = '[[ $symbol $branch ](fg:#769ff0 bg:#394260)]($style)[](#394260)'
+format = '[[ ](fg:#769ff0 bg:#394260)[$symbol $branch ](fg:#769ff0 bg:#394260)]($style)[](#394260)'
 
 [nodejs]
 symbol = ""
