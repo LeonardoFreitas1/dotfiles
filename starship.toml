@@ -1,7 +1,7 @@
 add_newline = false
 
 format = """
-╭[](#769ff0)$time[ | ](bg:#769ff0)$username[$git_branch](bg:#769ff0 fg:) $c $nodejs $rust $java
+╭[](#769ff0)$time[ | ](bg:#769ff0)$username[$git_branch](bg:#769ff0 fg:black) $c $nodejs $rust $java
 ╰──$character"""
 right_format = "$cmd_duration"
 
@@ -21,7 +21,7 @@ format = "[[](#769ff0)[$symbol](bg:#769ff0 fg:white)[](fg:#769ff0 bg:white
 disabled = false
 style_root = "bg:#769ff0"
 style_user = "bg:#769ff0"
-format = "[$user]($style)"
+format = "[$user]($style)[](fg:#769ff0)"
 show_always = true
 
 [hostname]
