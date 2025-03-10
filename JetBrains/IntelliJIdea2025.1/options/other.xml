@@ -1,0 +1,64 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="50873" />
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Beans.split": "0.65",
+    "BuildView.Splitter.Proportion": "0.32737276",
+    "Endpoints.split": "0.65",
+    "EndpointsSearchHistory": "/relatorios/movimentacaoEquipamento",
+    "FileChooser.ShowPath": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "LiveContextsPanel[0]": "0.14144272",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.migrate-modal-commit-setting": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.251": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "251.23774.16",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "251.23774.16-IJ",
+    "last_opened_file_path": "/home/l-arch/.asdf/installs/maven/3.9.9",
+    "llm.installer.activate.toolwindow.delayed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "previousColorScheme": "_@client_Dark",
+    "registry.to.advanced.settings.migration.build": "IU-251.23774.16",
+    "rider.trace.scenarios": "",
+    "terminal.gen.one.option.visible": "false",
+    "ts.lib.d.ts.version": "5.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/l-arch/.asdf/installs/maven/3.9.9",
+      "/home/l-arch/.asdf"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
