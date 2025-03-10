@@ -1,0 +1,27 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/ojc/handin/handin-admin-service">
+          <value>
+            <RecentProjectMetaInfo frameTitle="handin-admin-service" opened="true" projectWorkspaceId="2tx4G9scT66Wv8Z1wuUxaLHJjOx">
+              <option name="activationTimestamp" value="1741385715076" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-251.23774.16" />
+              <option name="buildTimestamp" value="1741150860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="-7" y="-7" width="1550" height="878" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1741353531903" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/ojc/handin/handin-admin-service" />
+    <option name="lastProjectLocation" value="$USER_HOME$/projects/ojc/handin" />
+  </component>
+</application>
