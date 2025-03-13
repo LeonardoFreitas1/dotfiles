@@ -64,7 +64,7 @@ show_always = true
 [time]
 format = "[$time](#ffff00)"
 time_format = "%a, %I:%M %p"
-disabled = false
+disabled = true
 
 [container]
 disabled = true
