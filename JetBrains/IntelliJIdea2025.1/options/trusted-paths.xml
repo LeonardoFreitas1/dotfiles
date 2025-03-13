@@ -1,9 +1,0 @@
-<application>
-  <component name="Trusted.Paths">
-    <option name="TRUSTED_PROJECT_PATHS">
-      <map>
-        <entry key="$USER_HOME$/projects/ojc/handin/handin-admin-service" value="true" />
-      </map>
-    </option>
-  </component>
-</application>

@@ -1,9 +1,0 @@
-<application>
-  <component name="CommonProfilerUISettings">
-    <option name="profileDuringDebugOptions">
-      <profile-during-debug>
-        <option name="enableRunToCursor" value="false" />
-      </profile-during-debug>
-    </option>
-  </component>
-</application>

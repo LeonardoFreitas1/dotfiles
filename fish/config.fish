@@ -27,3 +27,7 @@ set -Ux MAVEN_SNAPSHOTS_REPO_URL 'https://nexus.gjccorp.com.br/repository/maven-
 
 alias kube-az 'az aks get-credentials --resource-group rg-aks-corp-prd-eus2 --name aks-corp-prd-eus2'
 alias kube-qa 'kubectl config use-context k8s-cluster-qa'
+
+fzf --fish | source
+
+set KUBE_EDITOR '/usr/sbin/nvim'
