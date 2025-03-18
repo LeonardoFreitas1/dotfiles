@@ -194,6 +194,9 @@ vim.keymap.set("i", "jk", "<Esc>", { desc = "Change to normal mode" })
 vim.keymap.set("n", "<leader>m", "<Plug>(comment_toggle_linewise_current)", { desc = "Comment line" })
 vim.keymap.set("v", "<leader>m", "<Plug>(comment_toggle_linewise_visual)", { desc = "Comment selection" })
 
+vim.api.nvim_set_keymap("n", "<leader>r", ":Gitsigns reset_hunk<CR>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("v", "<leader>r", ":Gitsigns reset_hunk<CR>", { noremap = true, silent = true })
+
 -- [[ Basic Autocommands ]]
 --  See `:help lua-guide-autocommands`
 
