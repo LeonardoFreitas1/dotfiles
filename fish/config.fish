@@ -20,12 +20,13 @@ zoxide init fish | source
 
 starship init fish | source
 
-alias kube-az 'az aks get-credentials --resource-group rg-aks-corp-prd-eus2 --name aks-corp-prd-eus2'
+alias az-credentials 'az aks get-credentials --resource-group rg-aks-corp-prd-eus2 --name aks-corp-prd-eus2'
+alias kube-az 'kubectl config use-context aks-corp-prd-eus2'
 alias kube-qa 'kubectl config use-context k8s-cluster-qa'
 
 fzf --fish | source
 
-set KUBE_EDITOR '/usr/sbin/nvim'
+set -gx KUBE_EDITOR '/usr/sbin/nvim'
 
 if test -f ./.fish_secrets
     source ./.fish_secrets
